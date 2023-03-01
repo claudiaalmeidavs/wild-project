@@ -3,4 +3,4 @@
 
 # # ignore ALL files in ANY directory named temp
 # temp/
-./secret_file2.html
+secret_file3.html
